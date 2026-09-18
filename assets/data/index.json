@@ -1,0 +1,80 @@
+{
+    "about": {
+        "awards": "CompTIA Security+ (2024 - 2027)\nHackerRank SQL (Basic) Certification (2024)",
+        "description": "QA Automation Engineer.\n\nQA Automation Engineer with 2 years of experience in the Telecom domain, including Pega CRM application testing. Skilled in Selenium WebDriver, Playwright, Postman API testing, and CI/CD integration. Hands-on with Pega case management and workflow testing (Case Types, Stages, Assignments, SLAs, business rules) on Constellation UI, and with Pega Dev Studio for validating Data Types, Data Pages, Data Sets, API logs, and REST/Kafka integrations. Proven ability to improve test efficiency, expand coverage, and reduce production defects.",
+        "title": "Arjun Yadla"
+    },
+    "work": {
+        "pega-noc": {
+            "_index": 0,
+            "active": true,
+            "awards": "",
+            "brand": "/My-Portfolio/assets/images/about/logo.jpg",
+            "brand_scale": "0.9",
+            "brightness": "",
+            "caseLink": "",
+            "client": "Fidium, USA",
+            "color": "#5ba8c8",
+            "details": "End-to-end QA validation of the Pega NOC (Network Operations Center) Desktop application for Fidium, a leading U.S. fiber-optic internet provider. Validated alarm-to-ticket flows originating from Unified Assurance - event ingestion, ticket creation, enrichment, assignment, escalation, and closure within defined SLAs. Tested Case Types, Stages, Assignments, SLA timers, and business rules governing ticket prioritization, routing, and auto-assignment to NOC operations queues. Verified upstream (Unified Assurance) and downstream (EMC, CSD, TSD, SOLR, OFSC, Dispatch Desktop, Resolve Systems) integrations, Oracle MetaSolv M6 order workflows, and Kafka-based data validation using Postman, SQL, and Conduktor to ensure consistent ticket state across systems.",
+            "details_short": "End-to-end QA for Pega NOC Desktop with Fidium - alarm-to-ticket flows, workflow rules, and multi-system integrations.",
+            "image": "/My-Portfolio/assets/videos/work-full-fallback.jpg",
+            "link": "",
+            "name": "Pega NOC",
+            "name_mobile": "Pega\nNOC",
+            "perma": "pega-noc",
+            "tags": "featured",
+            "tech": "Pega CRM, Unified Assurance, Kafka, Oracle MetaSolv M6, OFSC",
+            "title": "Pega CRM NOC Desktop",
+            "video": "/My-Portfolio/assets/videos/work-full.webm",
+            "video_webm": "/My-Portfolio/assets/videos/work-full.webm"
+        },
+        "pega-tsd": {
+            "_index": 1,
+            "active": true,
+            "awards": "",
+            "brand": "/My-Portfolio/assets/images/nav/at-logo.png",
+            "brand_scale": "0.9",
+            "brightness": "",
+            "caseLink": "",
+            "client": "Consolidated Communications (CCI), USA",
+            "color": "#c99a5b",
+            "details": "QA for the Pega TSD (Technical Support Desktop), a case-management platform used by technical support agents to resolve customer issues with ONT devices, Internet, and Voice services. Tested the full trouble-ticket lifecycle, workflow stages, routing (Legacy / NNE work queues), and assignment across service scenarios, plus troubleshooting flows (ONT reboot, ping test, speed test) and SLA-based routing. Validated integrations with Prism, Siebel, BuyFlow, Points Calculator, Oracle Field Service Cloud, Pega NOC, CFP, and Dispatch Desktop, and used Postman and Splunk to verify SMS notifications and work-order status. Automated over 120 regression test cases with Selenium and Playwright, cutting a two-day manual regression cycle down to a few hours per release.",
+            "details_short": "QA for Pega TSD with Consolidated Communications - trouble-ticket lifecycle, routing, and 11+ system integrations.",
+            "image": "/My-Portfolio/assets/videos/lab-full-fallback.jpg",
+            "link": "",
+            "name": "Pega TSD",
+            "name_mobile": "Pega\nTSD",
+            "perma": "pega-tsd",
+            "tags": "featured",
+            "tech": "Pega CRM, Genesys Cloud, Splunk, Oracle Field Service Cloud",
+            "title": "Pega CRM TSD (Technical Support Desktop)",
+            "video": "/My-Portfolio/assets/videos/lab-full.webm",
+            "video_webm": "/My-Portfolio/assets/videos/lab-full.webm"
+        }
+    },
+    "lab": {
+        "test-automation": {
+            "_index": 0,
+            "active": true,
+            "awards": "",
+            "brand": "/My-Portfolio/assets/meta/favicon-32x32.png",
+            "brand_scale": "0.9",
+            "brightness": "",
+            "caseLink": "",
+            "client": "",
+            "color": "#8fb572",
+            "details": "Test automation and Agentic AI experiments. Automated 120+ regression test cases using Selenium WebDriver, Playwright and Cucumber (BDD), increasing test coverage and release stability. Exploring Agentic AI-assisted testing with Playwright MCP, AutoGen, and Claude/Mistral APIs for application exploration, test scenario identification, and workflow analysis.",
+            "details_short": "Test automation with Selenium, Playwright and Cucumber, plus Agentic AI-assisted testing experiments.",
+            "image": "/My-Portfolio/assets/videos/work-full-fallback.jpg",
+            "link": "https://github.com/BOUR-BONN",
+            "name": "Test Automation",
+            "name_mobile": "Test\nAuto-\nmation",
+            "perma": "test-automation",
+            "tags": "featured",
+            "tech": "Selenium, Playwright, Cucumber, Playwright MCP, AutoGen",
+            "title": "Test Automation & Agentic AI",
+            "video": "/My-Portfolio/assets/videos/reel.webm",
+            "video_webm": "/My-Portfolio/assets/videos/reel.webm"
+        }
+    }
+}
